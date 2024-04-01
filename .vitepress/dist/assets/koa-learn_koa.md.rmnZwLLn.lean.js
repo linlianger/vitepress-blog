@@ -1,0 +1,1 @@
+import{_ as o,c as e,o as a,V as t}from"./chunks/framework.bewaJ3Oh.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"koa-learn/koa.md","filePath":"koa-learn/koa.md"}'),l={name:"koa-learn/koa.md"},c=t("",11),i=[c];function p(n,r,u,_,k,s){return a(),e("div",null,i)}const b=o(l,[["render",p]]);export{d as __pageData,b as default};
